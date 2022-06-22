@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\bin\Release\Hello.exe.config
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\bin\Release\Hello.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\obj\Release\Hello.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\obj\Release\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\obj\Release\Hello.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\obj\Release\Hello.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\obj\Release\Hello.pdb

@@ -1,0 +1,13 @@
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.fabout.resources
+D:\programing\Microsoft Visual Studio\project\Notepad\Notepad\obj\Debug\Notepad.Search.resources

@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\bin\Debug\0405test.exe.config
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\bin\Debug\0405test.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\bin\Debug\0405test.pdb
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\obj\Debug\0405test.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\obj\Debug\0405test.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\obj\Debug\0405test.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\obj\Debug\0405test.exe
+C:\Users\User\OneDrive\바탕 화면\3학년1학기\객체지향 프로그래밍\Hello\Hello\0405test\obj\Debug\0405test.pdb
